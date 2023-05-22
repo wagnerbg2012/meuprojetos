@@ -37,6 +37,27 @@ navegador.find_element('xpath', '//*[@id="acao"]').click()
 link = "http://sac.ikhon.com.br/sac/Controle?bl=Listagem&am=&idProjeto[]=248"  
 site = navegador.get(link)
 
-#Seleciona SAC
-navegador.find_element('xpath', '//*[@id="tblExport"]/table/tbody/tr[3]/td[2]/a').click()
+
+
+dic_atedimentos ={'Projeto':[],'N.SAC':[],'Abertura':[],'Prioridade':[],'Tipo de chamdo':[]
+                  ,'Solicitante':[],'Tecnico responsavel':[],'Area de Destino':[]}
+
+#for i in range(2, 40):
+    #Seleciona SAC
+navegador.find_element('xpath', f'//*[@id="tblExport"]/table/tbody/tr[2]/td[2]/a').click()
+
+    #Tabela do projeto
+tabelaSac= navegador.find_element('xpath', '//*[@id="detalhamentoToggle"]/div/table')
+    #Você pode ler o innerHTMLatributo para obter a fonte do conteúdo do elemento ou outerHTMLpara a fonte com o elemento atual.
+htmlContent = tabelaSac.get_attribute("outerHTML")
+    #Pausa o HTML da pagina
+soup = BeautifulSoup(htmlContent,"html.parser")
+
+projeto= soup.findAll('xpath','//*[@id="detalhamentoToggle"]/div/table/tbody/tr[1]').get_text().Stip()
+print(str(projeto))
+  
+
+
+
+
 
