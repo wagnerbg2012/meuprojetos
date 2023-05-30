@@ -2,19 +2,19 @@ Unnamed: 0;SAC;Peso;Projeto;Solicitante;Data;Prioridade;Unnamed: 7;Sev.;Assunto;
 ;0.0;12784;SGD - ATI-TO;Flavio;14/09/2021 16:07;NORMAL;;;Verificação de Qualidade Contínua do Projeto;Flavio Frota;ANDAMENTO;14/09/2056 16:07;Não definido
 ;195.0;1;SGD - ATI-TO;Edir  *;26/12/2022 8:48;MUITO ALTA;;;Certificado de Segurança, Correção e limpeza de logs, temp, monitoramento storage;Ana Dias;ABERTO;27/12/2022 14:48;FS8 - SUPORTE ESPECIALIZADO
 ;204.0;91;SGD - ATI-TO;Athila  *;26/01/2023 11:47;NORMAL;;;EVOLUTIVA - Evolutiva SGD - Botão visualizar (Documento e Processo);Ana Dias;ENCERRAMENTO;28/04/2023 24:00;FS2 - EVOLUTIVA
-;205.0;98;SGD - ATI-TO;Athila  *;26/01/2023 11:48;NORMAL;;;EVOLUTIVA - Evolutiva no SGD - Sigilo da minuta;Wagner Gama;TESTE DESENVOLVIMENTO;05/05/2023 24:00;FS2 - EVOLUTIVA
-;206.0;63;SGD - ATI-TO;Athila  *;26/01/2023 11:49;NORMAL;;;EVOLUTIVA - Evolutiva no SGD - Implementar novo relatório;Patricia Silveira;IKHON - MÉTRICA (RI+CE);31/03/2023 24:00;FS2 - EVOLUTIVA
+;205.0;98;SGD - ATI-TO;Athila  *;26/01/2023 11:48;NORMAL;;;EVOLUTIVA - Evolutiva no SGD - Sigilo da minuta;Danielle Torres;DEVOLUÇÃO TESTE;05/05/2023 24:00;FS2 - EVOLUTIVA
+;206.0;63;SGD - ATI-TO;Athila  *;26/01/2023 11:49;NORMAL;;;EVOLUTIVA - Evolutiva no SGD - Implementar novo relatório;Cláudio Torres  *;CLIENTE - VALID. ARTEFATOS;31/03/2023 24:00;FS2 - EVOLUTIVA
 ;207.0;14;SGD - ATI-TO;Athila  *;26/01/2023 11:52;NORMAL;;;EVOLUTIVA - Evolutiva no SGD - Visualizador de documentos;Flavio Frota;PENDENTE IKHON;10/02/2023 24:00;FS2 - EVOLUTIVA
 ;209.0;32;SGD - ATI-TO;Athila  *;26/01/2023 11:57;NORMAL;;;Corretiva no SGD - Telas responsivas;Tulio Afioni;DEVOLUÇÃO TESTE;28/02/2023 24:00;FS1 - CORRETIVA
 ;209.1;2;SGD - ATI-TO;Flavio;20/03/2023 10:25;ALTA;;;IMPLEMENTAÇÃO  :  Ajuste Layout - Resposnividade;Tulio Afioni;DEVOLUÇÃO TESTE;22/03/2023 24:00;Não definido
-;252.0;2;SGD - ATI-TO;Edir  *;17/03/2023 9:05;MUITO ALTA;;;Gerência: Relatório -> Auditoria;Raphael Neto  *;TESTE HOMOLOGAÇÃO;20/03/2023 24:00;FS1 - CORRETIVA
+;252.0;2;SGD - ATI-TO;Edir  *;17/03/2023 9:05;MUITO ALTA;;;Gerência: Relatório -> Auditoria;Lucas Souza;ATUALIZAR HOMOLOGAÇÃO;20/03/2023 24:00;FS1 - CORRETIVA
 ;253.0;31;SGD - ATI-TO;Raphael  *;20/03/2023 10:49;NORMAL;;;Realização de operação assistida IGEPREV;Ana Dias;ENCERRAMENTO;21/04/2023 24:00;FS7 - TREINAMENTO
-;254.0;14;SGD - ATI-TO;Raphael  *;20/03/2023 10:52;NORMAL;;;Realização de operação assistida RURALTINS;Ana Dias;ABERTO;03/04/2023 10:52;FS7 - TREINAMENTO
+;254.0;66;SGD - ATI-TO;Raphael  *;20/03/2023 10:52;NORMAL;;;Realização de operação assistida RURALTINS;Ana Dias;ENCERRAMENTO;26/05/2023 24:00;FS7 - TREINAMENTO
 ;271.0;20;SGD - ATI-TO;Raphael  *;03/04/2023 9:44;ALTO;;;EVOLUTIVA - Nova funcionalidade bloquear usuário;Kenya Freitas;IKHON - CONTAGEM DETALHADA;24/04/2023 24:00;FS2 - EVOLUTIVA
-;277.0;9;SGD - ATI-TO;Raphael  *;11/04/2023 11:40;ALTO;;;Inclusão da Fonte Century Ghotic no visualizador do SGD;Rafael Pires;DEVOLUÇÃO TESTE;21/04/2023 24:00;FS3 - CUSTOMIZAÇÃO
-;279.0;13;SGD - ATI-TO;Wagner;14/04/2023 10:03;NORMAL;;;Correção na tela de anexar documento em processo e documentos;Antônio Sousa;TESTE DESENVOLVIMENTO;28/04/2023 24:00;FS1 - CORRETIVA
+;277.0;9;SGD - ATI-TO;Raphael  *;11/04/2023 11:40;ALTO;;;Inclusão da Fonte Century Ghotic no visualizador do SGD;Rafael Pires;ENCERRAMENTO;21/04/2023 24:00;FS3 - CUSTOMIZAÇÃO
+;279.0;13;SGD - ATI-TO;Wagner;14/04/2023 10:03;NORMAL;;;Correção na tela de anexar documento em processo e documentos;Wendell Magalhaes;ATUALIZAR HOMOLOGAÇÃO;28/04/2023 24:00;FS1 - CORRETIVA
 ;280.0;13;SGD - ATI-TO;Raphael  *;17/04/2023 12:15;NORMAL;;;Forçar limpeza de Cache;Raphael Neto  *;ENCERRAMENTO;01/05/2023 24:00;FS1 - CORRETIVA
-;285.0;8;SGD - ATI-TO;Raphael  *;19/04/2023 9:40;ALTO;;;Erro no relatório de Auditoria;Raphael Neto  *;TESTE HOMOLOGAÇÃO;28/04/2023 24:00;FS1 - CORRETIVA
+;285.0;8;SGD - ATI-TO;Raphael  *;19/04/2023 9:40;ALTO;;;Erro no relatório de Auditoria;Lucas Souza;ATUALIZAR HOMOLOGAÇÃO;28/04/2023 24:00;FS1 - CORRETIVA
 ;286.0;3;SGD - ATI-TO;Raphael  *;20/04/2023 11:22;ALTO;;;EVOLUTIVA - Integração do SGD com o ERGON;Kenya Freitas;IKHON - ANÁLISE DE REQUISITO;24/04/2023 24:00;FS2 - EVOLUTIVA
 ;287.0;40;SGD - ATI-TO;Raphael  *;20/04/2023 11:27;NORMAL;;;EVOLUTIVA - Inserir o número do SGD para o novo modelo de assinatura;Kenya Freitas;IKHON - MÉTRICA (RI+CE);31/05/2023 24:00;FS2 - EVOLUTIVA
 ;288.0;13;SGD - ATI-TO;Ana;24/04/2023 14:35;NORMAL;;;EVOLUTIVA - Elaborar Painel de Informações (BI) do SGD;Patricia Silveira;IKHON - ANÁLISE DE REQUISITO;08/05/2023 24:00;FS2 - EVOLUTIVA
@@ -27,7 +27,7 @@ Unnamed: 0;SAC;Peso;Projeto;Solicitante;Data;Prioridade;Unnamed: 7;Sev.;Assunto;
 ;297.0;1;SGD - ATI-TO;Raphael  *;02/05/2023 11:24;ALTO;;;Especificar um modelo de segurança do SGD;Kenya Freitas;ANDAMENTO;04/05/2023 24:00;FS8 - SUPORTE ESPECIALIZADO
 ;299.0;13;SGD - ATI-TO;Wagner;04/05/2023 11:39;NORMAL;;;Correção no contadores do SGD na tela de dashboard .;Alexandre Magno;ANDAMENTO;18/05/2023 24:00;FS1 - CORRETIVA
 ;300.0;13;SGD - ATI-TO;Antônio;04/05/2023 16:00;NORMAL;;;VISUALIZAÇÃO_RELATORIO;Thiago Azevedo;DEVOLUÇÃO TESTE;18/05/2023 24:00;FS1 - CORRETIVA
-;303.0;7;SGD - ATI-TO;Stefan  *;09/05/2023 15:06;MÉDIA;;;Realização de Treinamento com operação assistida SECIJU;Wendell Magalhaes;ANDAMENTO;16/05/2023 15:06;FS7 - TREINAMENTO
+;303.0;6;SGD - ATI-TO;Stefan  *;09/05/2023 15:06;MÉDIA;;;Realização de Treinamento com operação assistida SECIJU;Ana Dias;ENCERRAMENTO;16/05/2023 24:00;FS7 - TREINAMENTO
 ;304.0;14;SGD - ATI-TO;Raphael  *;11/05/2023 11:18;NORMAL;;;EVOLUTIVA - Retornar nome do órgão ao passar cursor do mouse na UG do documento;Ana Dias;ABERTO;25/05/2023 11:18;FS2 - EVOLUTIVA
 ;305.0;14;SGD - ATI-TO;Raphael  *;11/05/2023 11:29;NORMAL;;;EVOLUTIVA - Avisos Dinâmicos;Ana Dias;ABERTO;25/05/2023 11:29;FS2 - EVOLUTIVA
 ;306.0;14;SGD - ATI-TO;Raphael  *;11/05/2023 11:44;NORMAL;;;EVOLUTIVA - Acompanhar e Desacompanhar vários PROCESSOS e DOCUMENTOS ao mesmo tempo;Ana Dias;ABERTO;25/05/2023 11:44;FS2 - EVOLUTIVA
@@ -36,8 +36,11 @@ Unnamed: 0;SAC;Peso;Projeto;Solicitante;Data;Prioridade;Unnamed: 7;Sev.;Assunto;
 ;309.0;14;SGD - ATI-TO;Raphael  *;11/05/2023 11:55;NORMAL;;;EVOLUTIVA - Gerar Relatório de Documentos correntes das Unidades do SGD;Ana Dias;ABERTO;25/05/2023 11:55;FS2 - EVOLUTIVA
 ;310.0;14;SGD - ATI-TO;Raphael  *;11/05/2023 11:57;NORMAL;;;EVOLUTIVA - Ao incluir documento Digital validar o arquivo após o upload e antes de salvar o documento;Ana Dias;ABERTO;25/05/2023 11:57;FS2 - EVOLUTIVA
 ;311.0;14;SGD - ATI-TO;Raphael  *;11/05/2023 12:03;NORMAL;;;EVOLUTIVA - Modelos & Minutas não registra nome do usuário que substitui o arquivo digital;Ana Dias;ABERTO;26/05/2023 8:03;FS2 - EVOLUTIVA
-;313.0;13;SGD - ATI-TO;Wagner;12/05/2023 11:33;NORMAL;;;Correção ação expedir P:2023/40310/000150;Tulio Afioni;ANDAMENTO;26/05/2023 24:00;FS1 - CORRETIVA
-;314.0;13;SGD - ATI-TO;Raphael  *;15/05/2023 12:20;NORMAL;;;Erro: não permite que o usuário digite no campo despacho;Wagner Gama;ANDAMENTO;29/05/2023 24:00;FS1 - CORRETIVA
-;315.0;1;SGD - ATI-TO;Cláudio  *;16/05/2023 11:03;ALTO;;;Incidentes de Segurança da Informação no SGD;Wagner Gama;TESTE PRODUÇÃO;18/05/2023 24:00;FS1 - CORRETIVA
-;316.0;3;SGD - ATI-TO;Cláudio  *;18/05/2023 8:30;ALTO;;;Erro na referência do protocolo de Processos;Tulio Afioni;ANDAMENTO;22/05/2023 24:00;FS1 - CORRETIVA
-;317.0;13;SGD - ATI-TO;Raphael  *;18/05/2023 10:34;NORMAL;;;Erro na busca rápida;Tulio Afioni;ANDAMENTO;01/06/2023 24:00;FS1 - CORRETIVA
+;313.0;13;SGD - ATI-TO;Wagner;12/05/2023 11:33;NORMAL;;;Correção ação expedir P:2023/40310/000150;Wagner Gama;TESTE PRODUÇÃO;26/05/2023 24:00;FS1 - CORRETIVA
+;314.0;13;SGD - ATI-TO;Raphael  *;15/05/2023 12:20;NORMAL;;;Erro: não permite que o usuário digite no campo despacho;Flavio Frota;ANDAMENTO;29/05/2023 24:00;FS1 - CORRETIVA
+;315.0;1;SGD - ATI-TO;Cláudio  *;16/05/2023 11:03;ALTO;;;Incidentes de Segurança da Informação no SGD;Wagner Gama;AGUARDANDO DISTRIBUIÇÃO;18/05/2023 24:00;FS1 - CORRETIVA
+;316.0;3;SGD - ATI-TO;Cláudio  *;18/05/2023 8:30;ALTO;;;Erro na referência do protocolo de Processos;Wendell Magalhaes;TESTE HOMOLOGAÇÃO;22/05/2023 24:00;FS1 - CORRETIVA
+;317.0;13;SGD - ATI-TO;Raphael  *;18/05/2023 10:34;NORMAL;;;Erro na busca rápida;Wagner Gama;TESTE DESENVOLVIMENTO;01/06/2023 24:00;FS1 - CORRETIVA
+;318.0;1;SGD - ATI-TO;João;22/05/2023 11:48;ALTO;;;Erro ao visualizar tudo em processo;Rafael Pires;ANDAMENTO;24/05/2023 24:00;FS1 - CORRETIVA
+;319.0;12;SGD - ATI-TO;Raphael  *;24/05/2023 11:48;NORMAL;;;Realização de Treinamento com operação assistida SSP;Ana Dias;ENCERRAMENTO;06/06/2023 24:00;FS7 - TREINAMENTO
+;320.0;13;SGD - ATI-TO;Antônio;24/05/2023 17:23;NORMAL;;;DUPLICIDADE DE CPF - REALIZAR UNIFICAÇAÇÃO;Ana Dias;ABERTO;06/06/2023 17:23;FS1 - CORRETIVA
